@@ -10,7 +10,7 @@ I'm a **Tech Lead** with over 9 years of experience in software development, pro
 - **Prompt Engineering**: 💡 I enjoy creating efficient and intelligent systems, pushing the boundaries of AI and automation.
 
 ### 🛠 My Skills:
-- **Programming Languages**: Go, C, Rust, Node.js, JavaScript
+- **Programming Languages**: Go, C, Rust, Node.js, JavaScript, PHP
 - **Frameworks & Tools**: Docker, Kubernetes, AWS, Gin, ELK, NewRelic, DataDog
 - **Databases**: MySQL, PostgreSQL, MongoDB, Redis, MemCache, ElasticSearch
 - **Leadership**: Team management, Mentorship, Strategic planning, Requirement gathering
